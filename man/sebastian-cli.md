@@ -33,11 +33,11 @@ sebastian --philosophy
 
 <h2>SEE ALSO</h2>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.1.md">sebastian(1)</a> – User Commands<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.7.md">sebastian(7)</a> – Developer philosophy<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.conf.5.md">sebastian.conf(5)</a> – Configuration and defaults<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.service.8.md">sebastian.service.8.md</a> – Runtime behavior and lifecycle<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/caffeine.7.md">caffeine(7)</a> – Unofficial dependency
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.1.md">sebastian(1)</a> – User Commands<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.7.md">sebastian(7)</a> – Developer philosophy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.conf.5.md">sebastian.conf(5)</a> – Configuration and defaults<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.service.8.md">sebastian.service.8.md</a> – Runtime behavior and lifecycle<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/caffeine.7.md">caffeine(7)</a> – Unofficial dependency
 </p>
 
 <h2>AUTHOR</h2>

@@ -27,11 +27,11 @@ CAFFEINE(7)        Miscellaneous Information Manuals        CAFFEINE(7)
 
 <h2>SEE ALSO</h2>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.1.md">sebastian(1)</a> – User Commands<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.7.md">sebastian(7)</a> – Developer philosophy<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.conf.5.md">sebastian.conf(5)</a> – Configuration and defaults<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian.service.8.md">sebastian.service.8.md</a> – Runtime behavior and lifecycle<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/man/sebastian-cli.md">sebastian-cli</a> – Command-line help
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.1.md">sebastian(1)</a> – User Commands<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.7.md">sebastian(7)</a> – Developer philosophy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.conf.5.md">sebastian.conf(5)</a> – Configuration and defaults<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian.service.8.md">sebastian.service.8.md</a> – Runtime behavior and lifecycle<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sbstnlntz/sbstnlntz/blob/main/man/sebastian-cli.md">sebastian-cli</a> – Command-line help
 </p>
 
 <h2>AUTHOR</h2>
