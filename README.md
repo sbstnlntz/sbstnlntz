@@ -20,7 +20,7 @@ SEBASTIAN(1)                 User Commands                 SEBASTIAN(1)
 </p>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;“Crafting UI, engineering logic – running on caffeine.”
+&nbsp;&nbsp;&nbsp;&nbsp;“Engineering logic, crafting UI  – running on caffeine.”
 </p>
 
 <p>
